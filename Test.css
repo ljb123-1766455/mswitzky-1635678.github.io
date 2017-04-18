@@ -28,6 +28,7 @@ h3{
     font-weight: 300;
     margin-bottom: 0px;
     background-color: #8E41D5;
+    background-blend-mode: color-dodge;
 }
 
 li{
@@ -52,7 +53,8 @@ li{
     text-align: center;
     padding-bottom: 8px;
     background-color: #8E41D5;
-}
+    margin-top: 9px;
+    
 
 #LeftNav img{
     background-color: #8E41D5;
